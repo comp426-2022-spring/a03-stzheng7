@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/a03-stzheng7/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/a03-stzheng7#readme"
+  "homepage": "https://github.com/comp426-2022-spring/a03-stzheng7#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
